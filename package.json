@@ -1,0 +1,19 @@
+{
+  "name": "mi-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maha-tir/mi-react-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maha-tir/mi-react-js/issues"
+  },
+  "homepage": "https://github.com/Maha-tir/mi-react-js#readme"
+}
